@@ -1,0 +1,7 @@
+# Enthält den GitHub-Token – niemals hochladen
+push.sh
+
+# System / Build
+.DS_Store
+__pycache__/
+*.pyc
